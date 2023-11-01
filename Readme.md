@@ -1,4 +1,6 @@
-# Module 20 Mini-Project: Bucket List  Updates in progress !!
+# Module 20 Mini-Project: Bucket List  
+
+[Click to view deployed app ](https://react-bucket-list-f8uqudxx7-abdul-samed-s-projects.vercel.app/)
 
 In this mini-project, you are given starter code for a React Bucket List app. Some pieces of the application are not complete, and it is your mission to take what you have learned so far and complete the app.
 
